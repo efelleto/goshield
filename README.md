@@ -63,6 +63,12 @@ go run attacker.go
 - [ ] persistent database layer for historical analysis
 - [ ] webhook support for soc orchestration (siem/soar)
 
+## demo
+
+https://github.com/user-attachments/assets/0b405bd8-b8b3-4054-81ff-b23a10b7b51f
+
+
+
 ## license
 
 distributed under the mit license. see `license` for more information.
