@@ -1,0 +1,7 @@
+*.exe
+goshield
+
+logs/access.log
+logs/
+
+vendor/
